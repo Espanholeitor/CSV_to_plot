@@ -1,4 +1,4 @@
-Time (msec),* Engine Load (mg/stroke),* Engine Speed (RPM),* Oil Temperature (°C),* Throttle Position actual (°TPS),* Throttle Position pedal (°TPS),* Vehicle Speed (km/h)
+Time (msec),* Engine Load (mg/stroke),* Engine Speed (RPM),* Oil Temperature (Â°C),* Throttle Position actual (Â°TPS),* Throttle Position pedal (Â°TPS),* Vehicle Speed (km/h)
 0,98.28,763,95.3,0.0,0.0,0
 128,98.28,763,95.3,0.0,0.0,0
 240,98.53,761,95.3,0.0,0.0,0
