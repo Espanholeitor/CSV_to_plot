@@ -1,6 +1,6 @@
 The py Script reads data form the CSV files and then create some plots
 
-The data are somo logs recorded with romraider in my car
+The data are some logs recorded with romraider in my car
 
 The logs contains several data fields but the most important are Load and RPM
 
